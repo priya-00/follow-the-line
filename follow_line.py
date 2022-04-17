@@ -2,7 +2,6 @@ from GUI import GUI
 from HAL import HAL
 import numpy as np
 import cv2
-# Enter sequential code!
 
 prev_error = 0
 
